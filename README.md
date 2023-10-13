@@ -1,6 +1,6 @@
-# Hacktoberfest Indore 2022
+# Hacktoberfest Indore 2023
 
-**Datacode** Presents Hacktoberfest Indore 2022 - A hands on session to help people start their open source journey.
+**Datacode** Presents Hacktoberfest Indore 2023 - A hands on session to help people start their open source journey.
 
 ## What is Hacktoberfest?
 
@@ -56,7 +56,7 @@ A forked repository would be created affiliated to your account. Now open the co
     "image": "https://github.com/<your_github_user_id>.png"
 }
 ```
-**6.** Now save your file, add it to staged area using the commond, 
+**6.** Now save your file, add it to staged area using the command, 
 ```
 git add .
 ```
