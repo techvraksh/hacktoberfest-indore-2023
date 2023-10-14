@@ -97,6 +97,13 @@
       "lastname": "Modi",
       "about": "Postman Student Leader",
       "image": "https://github.com/silky-modi22.png"
+    },
+    {
+      "github": "DixitNehall",
+      "firstname": "Nehal",
+      "lastname": "Dixit",
+      "about": "Medicaps Student",
+      "image": "https://github.com/DixitNehall.png"
     }
   ]
 }
