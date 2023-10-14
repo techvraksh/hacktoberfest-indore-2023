@@ -68,7 +68,7 @@
       "github": "RuhiJain",
       "firstname": "Ruhi",
       "lastname": "Jain",
-      "about": "Learner"
+      "about": "Learner",
       "image": ""
     },
     {
@@ -140,6 +140,13 @@
       "lastname": "Jaiswal",
       "about": "Devloper",
       "image": "https://github.com/Palak4620.png"
+    },
+    {
+      "github": "ketanjain113",
+      "firstname": "Ketan",
+      "lastname": "Jain",
+      "about": "Student", 
+      "image": "https://github.com/ketanjain113.png"
     }
   ]
 }
