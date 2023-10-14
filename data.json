@@ -35,6 +35,13 @@
     "lastname": "parmar",
     "about": "web developer| devops learner",
     "image": "https://github.com/nikitaparmar04.png"
-     }
+     },
+    {
+      "github": "shraddha761",
+      "firstname": "Shraddha",
+      "lastname": "Singh",
+      "about": "Software developer",
+      "image": "https://github.com/shraddha761.png"
+    }
   ]
 }
