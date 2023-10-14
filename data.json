@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "github":"cho-zen",
+      "firstname":"Shivam",
+      "lastname":"Bhawsar",
+      "about":"Data Science Aspirant",
+      "image":"https://media.licdn.com/dms/image/D4D03AQFIF4NaybXRww/profile-displayphoto-shrink_400_400/0/1696800623305?e=1702512000&v=beta&t=kQ4j2iNig_0NTSymTh0Oc8DLJY062txUvVR5PAv0u5E"
+    },
+    {
       "github": "srashtisj",
       "firstname": "Srashti",
       "lastname": "Jain",
