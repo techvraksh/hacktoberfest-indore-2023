@@ -69,6 +69,13 @@
       "lastname": "Kushwah",
       "about": "Roockie Developer | Tech Enthusiast | Full Stack | Frontend ",
       "image": "https://github.com/uuc110.png"
+    },
+    {
+      "github": "gautamjaiswal22",
+      "firstname": "Gautam",
+      "lastname": "Jaiswal",
+      "about": "I am a final year Student specialized in Mobile App Development with Flutter Technology",
+      "image": "https://github.com/gautamjaiswal22.png"
     }
   ]
 }
