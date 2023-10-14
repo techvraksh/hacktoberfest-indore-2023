@@ -62,6 +62,13 @@
       "lastname": "Jain",
       "about": "Learner"
       "image": ""
+    },
+    {
+      "github": "uuc110",
+      "firstname": "Sourabh",
+      "lastname": "Kushwah",
+      "about": "Roockie Developer | Tech Enthusiast | Full Stack | Frontend ",
+      "image": "https://github.com/uuc110.png"
     }
   ]
 }
