@@ -105,7 +105,6 @@
       "about": "Backend Developer | Open-Source Contributor @AsyncAPI",
       "image": "https://github.com/atharvagadkari05.png"
     },
-
     {
       "github": "Psudopodiya",
       "firstname": "Chinmay",
@@ -127,7 +126,6 @@
       "about": "Software Engineer | Student | Self Enthusiast",
       "image": "https://avatars.githubusercontent.com/u/68241820?v=4"
     },
-
     {
       "github": "AbhayMishra2004",
       "firstname": "Abhay",
@@ -163,7 +161,6 @@
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/GC9669.png"
     },
-
     {
       "github": "deepakpatel-7",
       "firstname": "Deepak",
@@ -457,6 +454,13 @@
       "lastname": "Savner",
       "about": "I am a Student who likes web development.",
       "image": "https://github.com/Ayushsav.png"
+    },
+    {
+      "github": "gautamjaiswal22",
+      "firstname": "Gautam",
+      "lastname": "Jaiswal",
+      "about": "I am a final year Student specialized in Mobile App Development with Flutter Technology",
+      "image": "https://github.com/gautamjaiswal22.png"
     }
   ]
 }
