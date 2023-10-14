@@ -1,5 +1,6 @@
 {
-  "data": [
+  "data": 
+  [
     {
       "github":"cho-zen",
       "firstname":"Shivam",
@@ -125,6 +126,13 @@
         "lastname": "gupta",
         "about": "bigneeer python",
         "image": "https://github.com/guptamuskan1221.png"
-      }
+      },
+      {
+      "github": "priyanshi2506",
+      "firstname": "Priyanshi",
+      "lastname": "Gupta",
+      "about": "beginner | java developer",
+      "image": "https://github.com/priyanshi2506.png"
+    }
   ]
 }
