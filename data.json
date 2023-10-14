@@ -8,7 +8,6 @@
       "image": "https://github.com/srashtisj.png"
     },
     {
-
       "github": "Vaibhav871",
       "firstname": "Vaibhav",
       "lastname": "Jaiswal",
@@ -42,6 +41,13 @@
       "lastname": "Singh",
       "about": "Software developer",
       "image": "https://github.com/shraddha761.png"
+    },
+    {
+      "github": "saransh484",
+      "firstname": "Saransh",
+      "lastname": "Bhatnagar",
+      "about": "Backend Dev, IoT Dev, DevOps",
+      "image": "https://github.com/saransh484.png"
     }
   ]
 }
