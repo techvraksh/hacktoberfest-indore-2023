@@ -13,6 +13,13 @@
       "lastname": "doe",
       "about": "software engineer",
       "image": "https://github.com/mohitCodepy.png"
+    },
+    {
+      "github": "jhon doe",
+      "firstname": "Jhon",
+      "lastname": "doe",
+      "about": "software engineer",
+      "image": "https://github.com/mohitCodepy.png"
     }
   ]
 }
