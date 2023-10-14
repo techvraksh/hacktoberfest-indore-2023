@@ -118,6 +118,13 @@
       "lastname": "Jaiswal",
       "about": "Computer Science Student",
       "image": "https://media.licdn.com/dms/image/D4D35AQGZJLYNCLfSgA/profile-framedphoto-shrink_400_400/0/1690370986780?e=1697871600&v=beta&t=SMrlh--ebCHN91YE8NUFihvjV04T8791gUeGDaZVgEI"
-    }
+    },
+      {
+        "github": "guptamuskan1221",
+        "firstname": "Muskan",
+        "lastname": "gupta",
+        "about": "bigneeer python",
+        "image": "https://github.com/guptamuskan1221.png"
+      }
   ]
 }
