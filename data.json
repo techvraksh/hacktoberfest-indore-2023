@@ -6,6 +6,13 @@
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
+    },
+    {
+      "github": "gautamjaiswal22",
+      "firstname": "Gautam",
+      "lastname": "Jaiswal",
+      "about": "I am a final year Student specialized in Mobile App Development with Flutter Technology",
+      "image": "https://github.com/gautamjaiswal22.png"
     }
   ]
 }
