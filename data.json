@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "github":"cho-zen",
+      "firstname":"Shivam",
+      "lastname":"Bhawsar",
+      "about":"Data Science Aspirant",
+      "image":"https://media.licdn.com/dms/image/D4D03AQFIF4NaybXRww/profile-displayphoto-shrink_400_400/0/1696800623305?e=1702512000&v=beta&t=kQ4j2iNig_0NTSymTh0Oc8DLJY062txUvVR5PAv0u5E"
+    },
+    {
       "github": "srashtisj",
       "firstname": "Srashti",
       "lastname": "Jain",
@@ -104,6 +111,13 @@
       "lastname": "Dixit",
       "about": "Medicaps Student",
       "image": "https://github.com/DixitNehall.png"
+    },
+    {
+      "github": "adarsh-raj-jaiswal",
+      "firstname": "Adarsh Raj",
+      "lastname": "Jaiswal",
+      "about": "Computer Science Student",
+      "image": "https://media.licdn.com/dms/image/D4D35AQGZJLYNCLfSgA/profile-framedphoto-shrink_400_400/0/1690370986780?e=1697871600&v=beta&t=SMrlh--ebCHN91YE8NUFihvjV04T8791gUeGDaZVgEI"
     }
   ]
 }
