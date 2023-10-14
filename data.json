@@ -1,11 +1,145 @@
 {
-  "data": [
+  "data": 
+  [
+    {
+      "github":"cho-zen",
+      "firstname":"Shivam",
+      "lastname":"Bhawsar",
+      "about":"Data Science Aspirant",
+      "image":"https://media.licdn.com/dms/image/D4D03AQFIF4NaybXRww/profile-displayphoto-shrink_400_400/0/1696800623305?e=1702512000&v=beta&t=kQ4j2iNig_0NTSymTh0Oc8DLJY062txUvVR5PAv0u5E"
+    },
     {
       "github": "srashtisj",
       "firstname": "Srashti",
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
+    },
+    {
+      "github": "Vaibhav871",
+      "firstname": "Vaibhav",
+      "lastname": "Jaiswal",
+      "about": "Student @DAVV,MS Power Apps | MS Power Automate |Python |Javascript",
+      "image": "https://media.licdn.com/dms/image/D4D03AQFGvsm8UEk2kA/profile-displayphoto-shrink_400_400/0/1696837109287?e=1702512000&v=beta&t=bVspyS8bBABYVYIG9YY3O7praQzsGroPIni5OHuYJ1o"
+    },
+    {
+      "github": "Killer2OP",
+      "firstname": "Pratham",
+      "lastname": "Mahajan",
+      "about": "CSE Undergraduate ",
+      "image": "https://github.com/Killer2OP.png"
+    },
+    {
+      "github": "jain-bhakti",
+      "firstname": "bhakti",
+      "lastname": "Jain",
+      "about": "Tech Enthusiast | Open Source learner",
+      "image": "https://github.com/jain-bahkti.png"
+    },
+    {
+    "github": "nikitaparmar04",
+    "firstname": "Nikita",
+    "lastname": "parmar",
+    "about": "web developer| devops learner",
+    "image": "https://github.com/nikitaparmar04.png"
+     },
+    {
+      "github": "shraddha761",
+      "firstname": "Shraddha",
+      "lastname": "Singh",
+      "about": "Software developer",
+      "image": "https://github.com/shraddha761.png"
+    },
+    {
+      "github": "saransh484",
+      "firstname": "Saransh",
+      "lastname": "Bhatnagar",
+      "about": "Backend Dev, IoT Dev, DevOps",
+      "image": "https://github.com/saransh484.png"
+    },
+    {
+     "github": "Ranjana761",
+      "firstname": "Ranjana",
+      "lastname": "Vishwakarma",
+      "about": "student",
+      "image": "https://github.com/Ranjana761.png"
+    },
+    {
+      "github": "RuhiJain",
+      "firstname": "Ruhi",
+      "lastname": "Jain",
+      "about": "Learner"
+      "image": ""
+    },
+    {
+      "github": "uuc110",
+      "firstname": "Sourabh",
+      "lastname": "Kushwah",
+      "about": "Roockie Developer | Tech Enthusiast | Full Stack | Frontend ",
+      "image": "https://github.com/uuc110.png"
+    },
+    {
+      "github": "gautamjaiswal22",
+      "firstname": "Gautam",
+      "lastname": "Jaiswal",
+      "about": "I am a final year Student specialized in Mobile App Development with Flutter Technology",
+      "image": "https://github.com/gautamjaiswal22.png"
+    },
+    {
+      "github": "jawaleS",
+      "firstname": "Sourabh ",
+      "lastname": "Jawale",
+      "about": "Member Datacode",
+      "image": "https://github.com/jawaleS.png"
+    },
+    {
+      "github": "cho-zen",
+      "firstname": "Shivam",
+      "lastname": "Bhawsar",
+      "about": "Data Science Student",
+      "image": "https://media.licdn.com/dms/image/D4D03AQFIF4NaybXRww/profile-displayphoto-shrink_800_800/0/1696800623305?e=1702512000&v=beta&t=KaJP11-Z4k-_Cid_5DDy4FXuV9rV7qGlVFrmLaJNOy0"
+    },
+    {
+      "github": "silky-modi22",
+      "firstname": "Silky",
+      "lastname": "Modi",
+      "about": "Postman Student Leader",
+      "image": "https://github.com/silky-modi22.png"
+    },
+    {
+      "github": "DixitNehall",
+      "firstname": "Nehal",
+      "lastname": "Dixit",
+      "about": "Medicaps Student",
+      "image": "https://github.com/DixitNehall.png"
+    },
+    {
+      "github": "adarsh-raj-jaiswal",
+      "firstname": "Adarsh Raj",
+      "lastname": "Jaiswal",
+      "about": "Computer Science Student",
+      "image": "https://media.licdn.com/dms/image/D4D35AQGZJLYNCLfSgA/profile-framedphoto-shrink_400_400/0/1690370986780?e=1697871600&v=beta&t=SMrlh--ebCHN91YE8NUFihvjV04T8791gUeGDaZVgEI"
+    },
+      {
+        "github": "guptamuskan1221",
+        "firstname": "Muskan",
+        "lastname": "gupta",
+        "about": "bigneeer python",
+        "image": "https://github.com/guptamuskan1221.png"
+      },
+      {
+      "github": "priyanshi2506",
+      "firstname": "Priyanshi",
+      "lastname": "Gupta",
+      "about": "beginner | java developer",
+      "image": "https://github.com/priyanshi2506.png"
+    },
+    {
+      "github": "Palak4620",
+      "firstname": "Palak",
+      "lastname": "Jaiswal",
+      "about": "Devloper",
+      "image": "https://github.com/Palak4620.png"
     },
     {
       "github": "Anujjhariya",
