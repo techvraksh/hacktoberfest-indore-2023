@@ -55,6 +55,13 @@
       "lastname": "Vishwakarma",
       "about": "student",
       "image": "https://github.com/Ranjana761.png"
+    },
+    {
+      "github": "RuhiJain",
+      "firstname": "Ruhi",
+      "lastname": "Jain",
+      "about": "Learner"
+      "image": ""
     }
   ]
 }
