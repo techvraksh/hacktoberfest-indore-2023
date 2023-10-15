@@ -68,7 +68,7 @@
       "github": "RuhiJain",
       "firstname": "Ruhi",
       "lastname": "Jain",
-      "about": "Learner"
+      "about": "Learner",
       "image": ""
     },
     {
@@ -210,6 +210,13 @@
       "lastname": "Gupta",
       "about": "Pursuing Mtech IT integrated course in IIPS Davv",
       "image": "https://media.licdn.com/dms/image/D4D03AQGbD-8EvMTUcg/profile-displayphoto-shrink_400_400/0/1691081501702?e=1702512000&v=beta&t=hH1EgPcLrxH8799z-zjUW_do7ERYBK5WNVGn5DNElpI"
+    },
+    {
+      "github": "ketanjain113",
+      "firstname": "Ketan",
+      "lastname": "Jain",
+      "about": "Student", 
+      "image": "https://github.com/ketanjain113.png"
     }
   ]
 }
