@@ -2,19 +2,19 @@
   "data": 
   [
     {
-      "github":"cho-zen",
-      "firstname":"Shivam",
-      "lastname":"Bhawsar",
-      "about":"Data Science Aspirant",
-      "image":"https://media.licdn.com/dms/image/D4D03AQFIF4NaybXRww/profile-displayphoto-shrink_400_400/0/1696800623305?e=1702512000&v=beta&t=kQ4j2iNig_0NTSymTh0Oc8DLJY062txUvVR5PAv0u5E"
-    },
-    {
       "github": "srashtisj",
       "firstname": "Srashti",
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
     },
+    {
+      "github":"cho-zen",
+      "firstname":"Shivam",
+      "lastname":"Bhawsar",
+      "about":"Data Science Aspirant",
+      "image":"https://media.licdn.com/dms/image/D4D03AQFIF4NaybXRww/profile-displayphoto-shrink_400_400/0/1696800623305?e=1702512000&v=beta&t=kQ4j2iNig_0NTSymTh0Oc8DLJY062txUvVR5PAv0u5E"
+    },    
     {
       "github": "Vaibhav871",
       "firstname": "Vaibhav",
@@ -156,6 +156,13 @@
       "image": "https://avatars.githubusercontent.com/u/87867096?s=400&u=14c01d26b9aa4608a00a1a59b7c15b2a15bee196&v=4"
     },
     {
+      "github":"HarshalMahajan0110",
+      "firstname": "Harshal",
+      "lastname": "Mahajan",
+      "about": "Begginer Developer || HTML || CSS || JavaScript",
+      "image": "https://github.com/HarshalMahajan0110.png"
+    },
+    {      
       "github": "deepaksolanki7",
       "firstname": "Deepak",
       "lastname": "Solanki",
