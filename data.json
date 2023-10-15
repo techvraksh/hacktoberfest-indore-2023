@@ -7,7 +7,7 @@
       "lastname": "Jain",
       "about": "Founder TechVraksh | Google Developer Expert (Angular)",
       "image": "https://github.com/srashtisj.png"
-    }, 
+    },
     {
       "github":"cho-zen",
       "firstname":"Shivam",
@@ -197,5 +197,12 @@
       "about": "Developer ",
       "image": "https://github.com/prafulchouhan25/prafulchouhan25.png"
     },
+   {
+      "github": "RishabhDhawad",
+      "firstname": "Rishabh",
+      "lastname": "Dhawad",
+      "about": "Final Year Student",
+      "image": "https://github.com/RishabhDhawad.png"
+    }
   ]
 }
