@@ -1,6 +1,5 @@
 {
-  "data": 
-  [
+  "data": [
     {
       "github": "srashtisj",
       "firstname": "Srashti",
@@ -9,12 +8,12 @@
       "image": "https://github.com/srashtisj.png"
     },
     {
-      "github":"cho-zen",
-      "firstname":"Shivam",
-      "lastname":"Bhawsar",
-      "about":"Data Science Aspirant",
-      "image":"https://media.licdn.com/dms/image/D4D03AQFIF4NaybXRww/profile-displayphoto-shrink_400_400/0/1696800623305?e=1702512000&v=beta&t=kQ4j2iNig_0NTSymTh0Oc8DLJY062txUvVR5PAv0u5E"
-    },    
+      "github": "cho-zen",
+      "firstname": "Shivam",
+      "lastname": "Bhawsar",
+      "about": "Data Science Aspirant",
+      "image": "https://media.licdn.com/dms/image/D4D03AQFIF4NaybXRww/profile-displayphoto-shrink_400_400/0/1696800623305?e=1702512000&v=beta&t=kQ4j2iNig_0NTSymTh0Oc8DLJY062txUvVR5PAv0u5E"
+    },
     {
       "github": "Vaibhav871",
       "firstname": "Vaibhav",
@@ -37,12 +36,12 @@
       "image": "https://github.com/jain-bahkti.png"
     },
     {
-    "github": "nikitaparmar04",
-    "firstname": "Nikita",
-    "lastname": "parmar",
-    "about": "web developer| devops learner",
-    "image": "https://github.com/nikitaparmar04.png"
-     },
+      "github": "nikitaparmar04",
+      "firstname": "Nikita",
+      "lastname": "parmar",
+      "about": "web developer| devops learner",
+      "image": "https://github.com/nikitaparmar04.png"
+    },
     {
       "github": "shraddha761",
       "firstname": "Shraddha",
@@ -58,7 +57,7 @@
       "image": "https://github.com/saransh484.png"
     },
     {
-     "github": "Ranjana761",
+      "github": "Ranjana761",
       "firstname": "Ranjana",
       "lastname": "Vishwakarma",
       "about": "student",
@@ -120,14 +119,14 @@
       "about": "Computer Science Student",
       "image": "https://media.licdn.com/dms/image/D4D35AQGZJLYNCLfSgA/profile-framedphoto-shrink_400_400/0/1690370986780?e=1697871600&v=beta&t=SMrlh--ebCHN91YE8NUFihvjV04T8791gUeGDaZVgEI"
     },
-      {
-        "github": "guptamuskan1221",
-        "firstname": "Muskan",
-        "lastname": "gupta",
-        "about": "bigneeer python",
-        "image": "https://github.com/guptamuskan1221.png"
-      },
-      {
+    {
+      "github": "guptamuskan1221",
+      "firstname": "Muskan",
+      "lastname": "gupta",
+      "about": "bigneeer python",
+      "image": "https://github.com/guptamuskan1221.png"
+    },
+    {
       "github": "priyanshi2506",
       "firstname": "Priyanshi",
       "lastname": "Gupta",
@@ -156,13 +155,13 @@
       "image": "https://avatars.githubusercontent.com/u/87867096?s=400&u=14c01d26b9aa4608a00a1a59b7c15b2a15bee196&v=4"
     },
     {
-      "github":"HarshalMahajan0110",
+      "github": "HarshalMahajan0110",
       "firstname": "Harshal",
       "lastname": "Mahajan",
       "about": "Begginer Developer || HTML || CSS || JavaScript",
       "image": "https://github.com/HarshalMahajan0110.png"
     },
-    {      
+    {
       "github": "deepaksolanki7",
       "firstname": "Deepak",
       "lastname": "Solanki",
@@ -197,7 +196,7 @@
       "about": "Developer ",
       "image": "https://github.com/prafulchouhan25/prafulchouhan25.png"
     },
-   {
+    {
       "github": "RishabhDhawad",
       "firstname": "Rishabh",
       "lastname": "Dhawad",
@@ -215,7 +214,7 @@
       "github": "ketanjain113",
       "firstname": "Ketan",
       "lastname": "Jain",
-      "about": "Student", 
+      "about": "Student",
       "image": "https://github.com/ketanjain113.png"
     }
   ]
