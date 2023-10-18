@@ -216,6 +216,14 @@
       "lastname": "Jain",
       "about": "Student",
       "image": "https://github.com/ketanjain113.png"
+    },
+    {
+      "github": "Poo-09",
+      "firstname": "Poonam",
+      "lastname": "Singh",
+      "about": "Student",
+      "image": "https://avatars.githubusercontent.com/u/100222055?v=4"
     }
+    
   ]
 }
